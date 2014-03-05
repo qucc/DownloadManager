@@ -1,0 +1,9 @@
+c:\users\qucc\documents\visual studio 2012\Projects\DownloadManager\DownloadManager\bin\Debug\DownloadManager.exe.config
+c:\users\qucc\documents\visual studio 2012\Projects\DownloadManager\DownloadManager\obj\Debug\DownloadManager.Properties.Resources.resources
+c:\users\qucc\documents\visual studio 2012\Projects\DownloadManager\DownloadManager\obj\Debug\DownloadManager.csproj.GenerateResource.Cache
+C:\Users\qucc\Documents\Visual Studio 2012\Projects\DownloadManager\DownloadManager\bin\Debug\DownloadManager.exe
+C:\Users\qucc\Documents\Visual Studio 2012\Projects\DownloadManager\DownloadManager\bin\Debug\DownloadManager.pdb
+C:\Users\qucc\Documents\Visual Studio 2012\Projects\DownloadManager\DownloadManager\obj\Debug\DownloadManager.exe
+C:\Users\qucc\Documents\Visual Studio 2012\Projects\DownloadManager\DownloadManager\obj\Debug\DownloadManager.pdb
+C:\Users\qucc\Documents\Visual Studio 2012\Projects\DownloadManager\DownloadManager\obj\Debug\DownloadManager.DownloadMangerUI.resources
+C:\Users\qucc\Documents\Visual Studio 2012\Projects\DownloadManager\DownloadManager\obj\Debug\DownloadManager.DownloadListItem.resources
